@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kuba7500
+- 👋 Hi, I’m Jakub Jakobsche
 - 👀 I’m interested in IT enginering
 - 🌱 I’m currently learning programming langueges
 - 📫 How to reach me: cotact me via email: jakub.jaki@wp.pl
