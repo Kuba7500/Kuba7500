@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub Jakobsche
-- 👀 I’m interested in IT enginering
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning programming langueges
 - 📫 How to reach me: cotact me via email: jakub.jaki@wp.pl
 - 😄 Pronouns: him/his
